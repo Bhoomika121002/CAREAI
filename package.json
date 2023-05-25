@@ -1,19 +1,20 @@
 {
   "name": "servicesetu-main",
   "version": "1.0.0",
-  "description": "",
+  "description": "Your project description",
   "main": "script.js",
-  "homepage": "https://Bhoomika121002.github.io/CAREAI/",
+  "homepage": "https://Bhoomika121002.github.io/CAREAI",
   "scripts": {
-    "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "predeploy": "npm run build",
+    "build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sj1705/SummerProject.git"
+    "url": "git+https://github.com/Bhoomika121002/CAREAI.git"
   },
-  "author": "",
+  "author": "Your Name",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sj1705/SummerProject/issues"
@@ -26,7 +27,8 @@
     "mongoose": "^6.4.1",
     "multer": "^1.4.5-lts.1",
     "node": "^18.4.0",
-    "nodemon": "^1.19.4"
+    "nodemon": "^2.0.22",
+    "react-scripts": "^5.0.1"
   },
   "devDependencies": {
     "gh-pages": "^5.0.0"
