@@ -1,7 +1,6 @@
 //jshint esversion:6
 
 const mongoose = require("mongoose");
-mongoose.set('strictQuery', false);
 const express = require("express");
 const bodyParser = require("body-parser");
 const app = express();

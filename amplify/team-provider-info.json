@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-careai-dev-12751-authRole",
+      "UnauthRoleArn": "arn:aws:iam::750331685557:role/amplify-careai-dev-12751-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::750331685557:role/amplify-careai-dev-12751-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-careai-dev-12751-deployment",
+      "UnauthRoleName": "amplify-careai-dev-12751-unauthRole",
+      "StackName": "amplify-careai-dev-12751",
+      "StackId": "arn:aws:cloudformation:us-east-1:750331685557:stack/amplify-careai-dev-12751/6f0acaf0-04a4-11ee-b28a-0e8b7c9f7339",
+      "AmplifyAppId": "d22wzlw3qg6stg"
+    },
+    "categories": {
+      "auth": {
+        "careaif8a66914": {}
+      }
+    }
+  }
+}
